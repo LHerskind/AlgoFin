@@ -1,1 +1,1 @@
-# KristianStocker
+# AlgoFin
